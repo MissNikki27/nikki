@@ -1,0 +1,16 @@
+body{
+  background-color:white;
+  background-image:url("http://picsum.photos/seed/picsum/200/300");
+  background-size:cover;
+  font-size:15px;
+  font-family:("pacifico")
+}
+h1{
+  color:black;
+  background-color:pink;
+  padding:10px;
+  border:5px solid white;
+  border-radius:20px;
+  margin-bottom:30px;
+  margin-top:50px;
+}
